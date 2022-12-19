@@ -1,1 +1,8 @@
-
+<bugReport>
+<id>b1</id>
+<enviroment>Samsung Galaxy s8</enviroment>
+<summary>button Log out is on left at page Profile</summary>
+<steps to reproduse>open app</steps to reproduse>
+<ER>button is on right</ER>
+<AR>button in on left<AR/>
+</bugReport>
