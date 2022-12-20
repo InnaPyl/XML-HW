@@ -1,4 +1,27 @@
-<skills>
-<skills1>postman</skills1>
-<skills2>govar</skills2>
-</skills>
+<skill1>Базовая теория (Что такое тестирование, багрепорты, документация, виды, методы, направления тестирования и т.п.) SDLC, STLC.</skill1>
+<skill2>Что такое клиент-серверная архитектура.</skill2>
+<skill3>HTTP Методы запросов на сервер.</skill3>
+<skill4>Коды ответов HTTP сервера.</skill4>
+<skill5>Структуры HTTP запросов и ответов.</skill5>
+<skill6>Что такое JSON, XML. Их структура.</skill6>
+<skill7>Тестирование API через Postman (JS, автотесты API).</skill7>
+<skill8>Снятие и чтение логов c внешнего сервера.</skill8>
+<skill9>Снифинг http web трафика через Charles и Fiddler.</skill9>
+<skill10>Dev Tools веб браузеров (Google Chrome, FireFox).</skill10>
+<skill11>VPN. (Как работает, зачем нужен, как использовать, варианты инструментов)</skill11>
+<skill12>Мобильное тестирование.</skill12>
+<skill13>Особенность iOS, Android, гайдлайны.</skill13>
+<skill14>Сборка iOS приложений на XCode. (У кого нет Mac компьютера, просто посмотрят)</skill14>
+<skill15>Сборка Android приложений на Android Studio.</skill15>
+<skill16>ADB (управление андройд девайсами).</skill16>
+<skill17>Настройка прокси и vpn на iOS и Android.</skill17>
+<skill18>Перехват (сниффинг) мобильного трафика через Charles и Fiddler на iOS и Android.</skill18>
+<skill19>Командная строка (terminal) Linux (копирование, создание, просмотр, перемещение файлов на серверах без графического интерфейса)</skill19>
+<skill20>Основы bash скриптинг, автоматизация рутинных задач на сервере.</skill20>
+<skill21>Доступ к удалённым серверам.</skill21>
+<skill22>Основы SQL (Create, Delete, Drop, Insert Into, Select, From, Where, Join).</skill22>
+<skill23>База данных Postgres (установка, настройка и использование).</skill23>
+<skill24>Нереляционная база данных Redis (установка, настройка и использование).</skill24>
+<skill25>Нагрузочное тестирование в Jmeter.</skill25>
+<skill26>Методология разработки Scrum.</skill26>
+<skill27>Python. (Изучение основ. Создание клиент серверного приложения)</skill27>
