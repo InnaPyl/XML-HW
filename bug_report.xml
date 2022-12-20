@@ -1,8 +1,12 @@
-<bugReport>
-<id>b1</id>
-<enviroment>Samsung Galaxy s8</enviroment>
-<summary>button Log out is on left at page Profile</summary>
-<steps to reproduse>open app</steps to reproduse>
-<ER>button is on right</ER>
-<AR>button in on left<AR/>
-</bugReport>
+<bug_report>
+  <ID>номер</ID>
+  <summary>краткое описание</summary>
+  <description>полное описание</description>
+  <Environment>окружение</Environment>
+  <steps_to_reproduce>шаги воспроизведения</steps_to_reproduce>
+  <actual_result>фактический результат</actual_result>
+  <expected_result>ожидаемый результат</expected_result>
+  <severity>серьезность</severity>
+  <priority>приоритет</priority>
+  <additional_information>дополнения</additional_information>
+</bug_report>
